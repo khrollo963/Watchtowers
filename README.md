@@ -1,4 +1,4 @@
-# 🔺 Angelic Immersion: The Watchtower Database
+# 🔺 Angelic Immersion: The Watchtower Database: USE HERE https://khrollo963.github.io/Watchtowers/
 
 An interactive, single-file web app exploring the **Enochian Great Table** — the four elemental Watchtowers and the central Tablet of Union received by John Dee and Edward Kelley — rebuilt as a clickable, scryable, fully cross-referenced database.
 
